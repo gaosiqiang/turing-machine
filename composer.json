@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "psr-4": {
+      "vendor\\": "vendor",
+      "common\\": "common",
+      "app\\": "app"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+### atom ###
+/vendor/composer/
+/vendor/autoload.php
+
+### ide ###
+.idea
+.idea/
+
+# composer itself is not needed
+composer.phar
+composer.lock
+
+### MacOs ###
+.DS_Store
