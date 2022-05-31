@@ -16,6 +16,14 @@ class TuringmachineController extends CommonController
     }
 
     /**
+     * 图灵程序启动
+     */
+    public function actionLaunch()
+    {
+
+    }
+
+    /**
      * 添加程序
      */
     public function actionAddProgram()
